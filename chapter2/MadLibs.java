@@ -20,7 +20,7 @@ public class MadLibs {
         String wholeNumber = scanner.next();
         scanner.close();
 
-        // 4. Display the mad lib
+        // 4. Display the mad libs
         System.out.println("On a " + adjective + " " + season + " day, I drink a " +
                 "minimum of " + wholeNumber + " cups of coffee.");
 
