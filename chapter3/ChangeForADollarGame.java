@@ -14,21 +14,21 @@ public class ChangeForADollarGame {
         double quarterValue = .25;
 
         // Get what we don't
-        System.out.println("How many pennies would you like?");
-        double pennies = scanner.nextDouble();
-        double pennyAmount = pennies * pennyValue;
-
-        System.out.println("How many nickels would you like?");
-        double nickels = scanner.nextDouble();
-        double nickelAmount = nickels * nickelValue;
+        System.out.println("How many quarters would you like?");
+        double quarters = scanner.nextDouble();
+        double quarterAmount = quarters * quarterValue;
 
         System.out.println("How many dimes would you like?");
         double dimes = scanner.nextDouble();
         double dimeAmount = dimes * dimeValue;
 
-        System.out.println("How many quarters would you like?");
-        double quarters = scanner.nextDouble();
-        double quarterAmount = quarters * quarterValue;
+        System.out.println("How many nickels would you like?");
+        double nickels = scanner.nextDouble();
+        double nickelAmount = nickels * nickelValue;
+
+        System.out.println("How many pennies would you like?");
+        double pennies = scanner.nextDouble();
+        double pennyAmount = pennies * pennyValue;
 
         // Find total value
         double total = pennyAmount + nickelAmount + dimeAmount + quarterAmount;
