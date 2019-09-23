@@ -3,30 +3,34 @@ package chapter4;
 import java.util.Scanner;
 
 /*
-FOR LOOP:
-Write a cashier program that will scan a given number of items and tally the cost.
+LOOP BREAK
+Search a string to determine if it contains the letter 'A'.
  */
-public class Cashier {
+public class LetterSearch {
 
     public static void main(String args[]){
 
-        //Get number of items to scan
-        System.out.println("Enter the number of items you would like to scan:");
+        //Get text
+        System.out.println("Enter some text:");
         Scanner scanner = new Scanner(System.in);
-        int quantity = scanner.nextInt();
-
-        double total = 0;
-
-        // Create loop to iterate through all of the items and accumulate the costs
-        for(int i = 0; i<quantity; i++){
-
-            System.out.println("Enter the cost of the item");
-            double price = scanner.nextDouble();
-
-            total = total + price;
-        }
-
+        String text = scanner.next();
         scanner.close();
-        System.out.println("Your total is $" + total);
+
+        boolean letterFound = false;
+
+        // Search text for letter A
+        for(int i=0; i<text.length(); i++){
+            char currentLetter = text.charAt(i);
+            if(currentLetter == 'A' || currentLetter == 'a'){
+                letterFound = true;
+                break;
+            }
+        }
+        if (letterFound){
+            System.out.println("This text contains the letter 'A'");
+        }
+        else {
+            System.out.println("This text does not contain the letter 'A'");
+        }
     }
 }
