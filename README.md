@@ -7,10 +7,15 @@ This is the supporting documents I created while going through the Java Programm
 
 <h2>Chapter 3</h2>
 1. If statements
+
 2. If-else statements
+
 3. Nested If statements
+
 4. If-else-if statements
+
 5. Switch statements
+
 6. Relational & Locical Operators
 
 <h2>Chapter 4</h2>
