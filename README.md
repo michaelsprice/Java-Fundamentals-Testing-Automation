@@ -6,7 +6,7 @@ This is the supporting documents I created while going through the Java Programm
 - Java Fundamentals 
 
 <h2>Chapter 3</h2>
-If statements - including:
+If statements (including):
 - If
 - If-else 
 - Nested If
@@ -17,7 +17,7 @@ Switch statements
 Relational & Locical Operators
 
 <h2>Chapter 4</h2>
-Loops - including:
+Loops (including):
 - While
 - Do While
 - For
