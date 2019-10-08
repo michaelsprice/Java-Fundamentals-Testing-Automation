@@ -6,14 +6,12 @@ This is the supporting documents I created while going through the Java Programm
 - Java Fundamentals 
 
 <h2>Chapter 3</h2>
-- If statements
-- If-else statements
-- Nested If statements
-- If-else-if statements
-
-Switch statements
-
-Relational & Locical Operators
+* If statements
+* If-else statements
+* Nested If statements
+* If-else-if statements
+* Switch statements
+* Relational & Locical Operators
 
 <h2>Chapter 4</h2>
 - While Loops
