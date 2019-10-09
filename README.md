@@ -21,8 +21,11 @@ If statements
 
 <h2>Chapter 4</h2>
 - While Loops
+
 - Do While Loops
+
 - For Loops
+
 - Nested Loops
 
 <h2>Chapter 5</h2>
