@@ -6,13 +6,14 @@ This is the supporting documents I created while going through the Java Programm
 - Java Fundamentals 
 
 <h2>Chapter 3</h2>
-- If statements
+If statements
 
 - If-else statements
 
 - Nested If statements
 
 - If-else-if statements
+
 
 - Switch statements
 
@@ -29,8 +30,11 @@ This is the supporting documents I created while going through the Java Programm
 
 <h2>Chapter 6</h2>
 - Classes & Objects
+
 - Instantiating Objects
+
 - Objects as Method Parameters and Return Types
+
 - Overloading Methods Within a Class
 
 <h2>Chapter 7</h2>
@@ -41,8 +45,11 @@ This is the supporting documents I created while going through the Java Programm
 
 <h2>Chapter 9</h2>
 - Inheritance
+
 - Constructors in Inheritance
+
 - Overriding and Overloading Methods
+
 - Access Limitations & Multiple Inheritance
 
 <h2>Chapter 10</h2>
@@ -52,7 +59,7 @@ This is the supporting documents I created while going through the Java Programm
 - Abstraction & Interfaces
 
 <h2>Chapter 12</h2>
-
+- Collections Framework & looping through collections and maps
 
 <h2>Chapter 13</h2>
 
